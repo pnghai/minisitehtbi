@@ -1,0 +1,294 @@
+[
+  {
+    "pictures": [
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-1024",
+        "name": "134-135-1024.jpg",
+        "width": 1440,
+        "height": 1007,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-1024.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-1070_2x",
+        "name": "134-135-1070_2x.jpg",
+        "width": 2140,
+        "height": 1496,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-1070_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-1070",
+        "name": "134-135-1070.jpg",
+        "width": 1070,
+        "height": 748,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-1070.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-1440",
+        "name": "134-135-1440.jpg",
+        "width": 1920,
+        "height": 1342,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-1440.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-320_2x",
+        "name": "134-135-320_2x.jpg",
+        "width": 639,
+        "height": 447,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-320_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-320",
+        "name": "134-135-320.jpg",
+        "width": 320,
+        "height": 224,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-320.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-480_2x",
+        "name": "134-135-480_2x.jpg",
+        "width": 960,
+        "height": 671,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-480_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-480",
+        "name": "134-135-480.jpg",
+        "width": 480,
+        "height": 336,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-480.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-640_2x",
+        "name": "134-135-640_2x.jpg",
+        "width": 1280,
+        "height": 895,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-640_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-640",
+        "name": "134-135-640.jpg",
+        "width": 639,
+        "height": 447,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-640.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-768_2x",
+        "name": "134-135-768_2x.jpg",
+        "width": 1920,
+        "height": 1342,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-768_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/134-135-768",
+        "name": "134-135-768.jpg",
+        "width": 960,
+        "height": 671,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/134-135-768.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-1024",
+        "name": "70-71-1024.jpg",
+        "width": 1440,
+        "height": 1007,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-1024.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-1070_2x",
+        "name": "70-71-1070_2x.jpg",
+        "width": 2140,
+        "height": 1496,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-1070_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-1070",
+        "name": "70-71-1070.jpg",
+        "width": 1070,
+        "height": 748,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-1070.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-1440",
+        "name": "70-71-1440.jpg",
+        "width": 1920,
+        "height": 1342,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-1440.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-320_2x",
+        "name": "70-71-320_2x.jpg",
+        "width": 639,
+        "height": 447,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-320_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-320",
+        "name": "70-71-320.jpg",
+        "width": 320,
+        "height": 224,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-320.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-480_2x",
+        "name": "70-71-480_2x.jpg",
+        "width": 960,
+        "height": 671,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-480_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-480",
+        "name": "70-71-480.jpg",
+        "width": 480,
+        "height": 336,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-480.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-640_2x",
+        "name": "70-71-640_2x.jpg",
+        "width": 1280,
+        "height": 895,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-640_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-640",
+        "name": "70-71-640.jpg",
+        "width": 639,
+        "height": 447,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-640.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-768_2x",
+        "name": "70-71-768_2x.jpg",
+        "width": 1920,
+        "height": 1342,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-768_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/70-71-768",
+        "name": "70-71-768.jpg",
+        "width": 960,
+        "height": 671,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/70-71-768.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-1024",
+        "name": "94-95-1024.jpg",
+        "width": 1440,
+        "height": 1007,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-1024.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-1070_2x",
+        "name": "94-95-1070_2x.jpg",
+        "width": 2140,
+        "height": 1496,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-1070_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-1070",
+        "name": "94-95-1070.jpg",
+        "width": 1070,
+        "height": 748,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-1070.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-1440",
+        "name": "94-95-1440.jpg",
+        "width": 1920,
+        "height": 1342,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-1440.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-320_2x",
+        "name": "94-95-320_2x.jpg",
+        "width": 639,
+        "height": 447,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-320_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-320",
+        "name": "94-95-320.jpg",
+        "width": 320,
+        "height": 224,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-320.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-480_2x",
+        "name": "94-95-480_2x.jpg",
+        "width": 960,
+        "height": 671,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-480_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-480",
+        "name": "94-95-480.jpg",
+        "width": 480,
+        "height": 336,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-480.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-640_2x",
+        "name": "94-95-640_2x.jpg",
+        "width": 1280,
+        "height": 895,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-640_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-640",
+        "name": "94-95-640.jpg",
+        "width": 639,
+        "height": 447,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-640.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-768_2x",
+        "name": "94-95-768_2x.jpg",
+        "width": 1920,
+        "height": 1342,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-768_2x.jpg"
+      },
+      {
+        "breakpoint": "esources/assets/img/temp/pictures/94-95-768",
+        "name": "94-95-768.jpg",
+        "width": 960,
+        "height": 671,
+        "folder": "pictures",
+        "path": "resources/assets/img/temp/pictures/94-95-768.jpg"
+      }
+    ]
+  }
+]
