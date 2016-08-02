@@ -6,18 +6,9 @@
 Main File For Imports
 =================================================== */
 
-
-// Reset (veams-reset or veams-normalize)
-@import "../bower-components/veams-sass/resources/scss/veams-reset";
-
 // Global Variables and Settings
 @import "global/_vars";
 @import "../bower-components/veams-sass/resources/scss/veams";
-
-@import "../bower-components/bootstrap-sass/assets/stylesheets/bootstrap"; // You can choose your specific components
-
-// Icons
-
 
 // Mixins
 
@@ -28,7 +19,6 @@ Main File For Imports
 // Globals
 @import "global/_base";
 
-
 // Regions in Layouts
 
 
@@ -36,7 +26,13 @@ Main File For Imports
 
 
 // Blocks
-
+@import "blocks/_b-about";
+@import "blocks/_b-author";
+@import "blocks/_b-featured";
+@import "blocks/_b-introduction";
+@import "blocks/_b-testimonials";
+@import "blocks/_b-tiki";
+@import "blocks/_helper";
 
 // Print
 @import "global/_print";

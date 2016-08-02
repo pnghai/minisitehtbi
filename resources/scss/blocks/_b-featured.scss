@@ -1,0 +1,17 @@
+.b-featured {
+	background-color: #f3f3f3;
+
+	perspective: 1px;
+	h2{margin:8.33333333vh 0 6.25vh;color:$blue;}
+	button{margin-top:20px;margin-bottom:8.95833333vh}
+	picture {
+		display: block;
+		margin:0 15px 18px;
+		img{
+			box-shadow: 4px 2px 13.5px 0 rgba(0, 0, 0, 0.35);
+			-webkit-box-shadow: 4px 2px 13.5px 0 rgba(0, 0, 0, 0.35);
+			-moz-box-shadow:4px 2px 13.5px 0 rgba(0, 0, 0, 0.35);
+			width:100%;
+		}
+	}
+}

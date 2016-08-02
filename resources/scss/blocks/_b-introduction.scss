@@ -1,0 +1,22 @@
+.b-introduction {
+	background-color: $light;
+	padding:12.3611111vh 0;
+	h1{color:$blue;}
+	.left-info{
+		padding:0 7.65625vw 0 5.4296875vw;
+		text-align: justify;
+	}
+	.btn-cta {
+		margin-top: 40px;
+	}
+	.cover{
+		img {
+			max-width: 100%;
+			@media (max-width: 768px) {
+				text-align: center;
+				margin-bottom: 25px;
+			}
+		}
+	}
+
+}

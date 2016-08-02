@@ -12,11 +12,17 @@ html {
 }
 
 body {
-	font-family: Arial, sans-serif;
-	font-size: 16px;
-	line-height: 1.4;
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+	line-height: 1.80062305;
 }
 
+h1,h2{
+	font-size:24px;
+	margin:10px 0;
+	font-weight:800;
+}
+em{font-style: italic}
 // styling of console output element (triggered by parameter 'devmode' and 'logger' in url)
 #logger {
 	font-size: 14px;

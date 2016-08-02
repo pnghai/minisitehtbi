@@ -1,0 +1,85 @@
+.b-testimonials {
+	position: relative;
+
+	color: #fff;
+	background: linear-gradient( rgba(65, 102, 131, 0.5), rgba(65, 102, 131, 0.5) ), url(../img/testimonial-bg-1-1280.jpg) no-repeat no-repeat center center;
+	-moz-background-size: cover;
+	background-size: cover;
+	.row {
+		padding: 15vh 0 18.4722222vh;
+	}
+	h2 {
+		font-size: 36px;
+		margin: 0 0 77px;
+		color:#fff;
+		text-shadow: 3px 2px 4.5px rgba(0, 0, 0, 0.75);
+	}
+	.quote {
+		font-size: 23.5px;
+		font-weight: 500;
+		line-height: 1.57054674;
+		margin-bottom: 34px;
+		letter-spacing: -0.5px ;
+		text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.93);
+	}
+	.amazon-logo {
+		width: auto;
+		height: 115px;
+		margin: 0 auto;
+	}
+	.reviewer {
+		font-size: 15px;
+		margin: 15px 0 0;
+		text-transform: uppercase;
+	}
+	.nav-control {
+		margin-top: 26px;
+	}
+	.owl-theme .owl-controls {
+		.owl-pagination {
+			position: absolute;
+			bottom: 8vh;
+
+			width: 100%;
+
+			text-align: center;
+			.owl-page {
+				span {
+					width: 15px;
+					height: 15px;
+
+					background-color: rgba(255,255,255,0.5);
+				}
+				&.active {
+					span {
+						background-color: #fff;
+					}
+				}
+			}
+		}
+		.owl-buttons div {
+			font-size: 47px;
+			font-weight:100;
+
+			position: absolute;
+			top: 50%;
+
+			margin-top: -23.5px;
+
+			opacity: 1;
+			-webkit-border-radius: 0;
+			-moz-border-radius: 0;
+			border-radius: 0;
+			background: transparent;
+			text-shadow: 5px 3px 5px rgba(0, 0, 0, 0.93);
+
+			filter: Alpha(Opacity=100);
+			&.owl-prev {
+				left: 89px;
+			}
+			&.owl-next {
+				right: 89px;
+			}
+		}
+	}
+}
