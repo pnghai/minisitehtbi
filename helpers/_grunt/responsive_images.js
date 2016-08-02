@@ -46,6 +46,21 @@ module.exports = {
 					name: "1024",
 					width: 1440,
 					quality: 80
+				},
+				{
+					name:"1070",
+					width: 1070,
+					quality: 80,
+				},
+				{
+					name:"1070_2x",
+					width: 2140,
+					quality: 80
+				},
+				{
+					name:"1440",
+					width:1920,
+					quality:80
 				}
 			]
 		},
