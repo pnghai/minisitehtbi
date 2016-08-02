@@ -12,8 +12,8 @@
 .btn-dark {
 	color: $light;
 	background-color: $btn-dark;
-	&:hover{
-		color:lighten($light,10%);
+	&:hover {
+		color: lighten($light,10%);
 		background-color: darken($btn-dark,20%);
 	}
 }
@@ -25,9 +25,9 @@
 		background-color: $btn-dark;
 	}
 }
-.btn-gray{
-	color:#ffffff;
-	background-color:#3f423c;
+.btn-gray {
+	color: #fff;
+	background-color: #3f423c;
 	&:hover {
 		color: $light;
 		background-color: $btn-dark;
@@ -44,20 +44,23 @@
 .no-padding {
 	padding: 0;
 }
-.valign {
-	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
-	display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
-	display: -ms-flexbox;      /* TWEENER - IE 10 */
-	display: -webkit-flex;
-    display: flex;
-	flex-direction: row;
-	> [class*="col-sm"] {
-		display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
-		display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
-		display: -ms-flexbox;      /* TWEENER - IE 10 */
+@media (min-width:768px) {
+	.valign {
+		display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+		display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+		display: -ms-flexbox; /* TWEENER - IE 10 */
 		display: -webkit-flex;
-        display: flex;
-		align-items: center;
-		justify-content: center;
+		display: flex;
+		flex-direction: row;
+		> [class*="col-sm"] {
+			display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+			display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+			display: -ms-flexbox; /* TWEENER - IE 10 */
+			display: -webkit-flex;
+			display: flex;
+
+			align-items: center;
+			justify-content: center;
+		}
 	}
 }

@@ -10,16 +10,21 @@
 	}
 	h2 {
 		font-size: 36px;
+
 		margin: 0 0 77px;
-		color:#fff;
+
+		color: #fff;
 		text-shadow: 3px 2px 4.5px rgba(0, 0, 0, 0.75);
 	}
 	.quote {
 		font-size: 23.5px;
 		font-weight: 500;
 		line-height: 1.57054674;
+
 		margin-bottom: 34px;
+
 		letter-spacing: -0.5px ;
+
 		text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.93);
 	}
 	.amazon-logo {
@@ -29,7 +34,9 @@
 	}
 	.reviewer {
 		font-size: 15px;
+
 		margin: 15px 0 0;
+
 		text-transform: uppercase;
 	}
 	.nav-control {
@@ -59,7 +66,7 @@
 		}
 		.owl-buttons div {
 			font-size: 47px;
-			font-weight:100;
+			font-weight: 100;
 
 			position: absolute;
 			top: 50%;
@@ -75,10 +82,16 @@
 
 			filter: Alpha(Opacity=100);
 			&.owl-prev {
-				left: 89px;
+				left: 6.953125vw;
+				@media (max-width: 800px) {
+					display: none;
+				}
 			}
 			&.owl-next {
-				right: 89px;
+				right: 6.953125vw;
+				@media (max-width: 800px) {
+					display: none;
+				}
 			}
 		}
 	}
