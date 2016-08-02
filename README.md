@@ -1,6 +1,6 @@
 # shh-tiki-htbimini
 
-Current version="0.0.3"
+Current version="0.0.6"
 
 ## Requirements For Frontend Development
 

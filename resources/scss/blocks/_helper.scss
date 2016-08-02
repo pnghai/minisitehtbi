@@ -8,6 +8,9 @@
 	padding: 17px 47px;
 
 	border: none;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
 }
 .btn-dark {
 	color: $light;
