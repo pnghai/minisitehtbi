@@ -2,6 +2,19 @@
 BASE
 =================================================== */
 
+@font-face {
+	font-family: "UTM Avo";
+	font-weight: bold;
+	font-style: normal;
+
+	src: url("../fonts/subset-UTMAvoBold.eot");
+	src: local("UTM Avo"), local("UTM Avo Bold"),
+	url("../fonts/subset-UTMAvoBold.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/subset-UTMAvoBold.woff2") format("woff2"),
+	url("../fonts/subset-UTMAvoBold.woff") format("woff"),
+	url("../fonts/subset-UTMAvoBold.ttf") format("truetype"),
+	url("../fonts/subset-UTMAvoBold.svg#UTMAvoBold") format("svg");
+}
 /* ---------------------------------------------------
 Global styles
 --------------------------------------------------- */
@@ -19,8 +32,9 @@ body {
 
 h1,
 h2 {
+	font-family: "UTM Avo", sans-serif;
 	font-size: 24px;
-	font-weight: 800;
+	font-weight: bold;
 
 	margin: 10px 0;
 }
